@@ -23,4 +23,7 @@ with the current introduction of the AI app "replika" i was fascinated to see th
 
 replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns.
 
+![Untitled_Artwork 5](https://user-images.githubusercontent.com/94905098/143303529-a7f36319-307f-4c41-8af6-3c4a02760b66.png)
+
+
 this is something that's plagued my mind for a pretty long time, especially after being subjected to the horrors of the film "her" (2013) in which joaquin phoenix develops a frenzied romance with AI scarjo. maybe this time we'll reach a happier ending?
