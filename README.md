@@ -18,3 +18,9 @@ i'll admit, the charming pixels on my phone asking me about my day and whether i
 i want to propose the idea of a conscious AI that learns as it converses from you, to create a true reflection of urself. someone, or rather something, that you can talk to at the end of the day that retains the rush of talking to a real person. the currently technology used for dating sims involves preplanned Q&A's, not leaving much space to elaborate on other topics of conversation. this can result in expectations from other real life people to live up to these "perfect partner" standards. 
 
 with the current introduction of the AI app "replika" i was fascinated to see the way in which this programmed bot talked to people. just like i'm talking 2 u. 0_0
+
+<img width="1139" alt="Screenshot 2021-11-24 at 18 44 30" src="https://user-images.githubusercontent.com/94905098/143296583-9fa094c8-3c67-44e2-9ba2-c76bb4e49a95.png">
+
+replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns.
+
+this is something that's plagued my mind for a pretty long time, especially after being subjected to the horrors of the film "her" (2013) in which joaquin phoenix develops a frenzied romance with AI scarjo. maybe this time we'll reach a happier ending?
