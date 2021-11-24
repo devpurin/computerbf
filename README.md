@@ -23,3 +23,5 @@ i want to propose the idea of a conscious AI that learns as it converses from yo
 with the current introduction of the AI app "replika" i was fascinated to see the way in which this programmed bot talked to people. just like i'm talking 2 u. 0_0
 
 replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns. for all that u know, i could be a bot too. beep boop. or whatever the hell a bot would say. are you in love with me yet, is this working?
+
+ahem, regardless, the concept of perhaps putting this AI into a product similar to alexa could yield some pretty interesting, perhaps semi fucked up, results. let's just hope we avoid the heartbreaking route that unfolded in "her" (2013).
