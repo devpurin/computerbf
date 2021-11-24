@@ -19,11 +19,9 @@ i want to propose the idea of a conscious AI that learns as it converses from yo
 
 with the current introduction of the AI app "replika" i was fascinated to see the way in which this programmed bot talked to people. just like i'm talking 2 u. 0_0
 
-<img width="1139" alt="Screenshot 2021-11-24 at 18 44 30" src="https://user-images.githubusercontent.com/94905098/143296583-9fa094c8-3c67-44e2-9ba2-c76bb4e49a95.png">
-
 replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns.
 
-![Untitled_Artwork 5](https://user-images.githubusercontent.com/94905098/143303529-a7f36319-307f-4c41-8af6-3c4a02760b66.png)
+![Untitled_Artwork 6](https://user-images.githubusercontent.com/94905098/143313363-e1111628-5e52-4e97-ae49-d7614365a7e3.png)
 
 
 this is something that's plagued my mind for a pretty long time, especially after being subjected to the horrors of the film "her" (2013) in which joaquin phoenix develops a frenzied romance with AI scarjo. maybe this time we'll reach a happier ending?
