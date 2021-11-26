@@ -17,7 +17,8 @@ i'll admit, the charming pixels on my phone asking me about my day and whether i
 
 i want to propose the idea of a conscious AI that learns as it converses from you, to create a true reflection of urself. someone, or rather something, that you can talk to at the end of the day that retains the rush of talking to a real person. the currently technology used for dating sims involves preplanned Q&A's, not leaving much space to elaborate on other topics of conversation. this can result in expectations from other real life people to live up to these "perfect partner" standards. 
 
-![Untitled_Artwork 6](https://user-images.githubusercontent.com/94905098/143313450-18bb05a3-9f7f-4751-95d4-c08da1e553be.png)
+
+![Untitled_Artwork 7](https://user-images.githubusercontent.com/94905098/143566435-67c2c5b6-8908-4bcc-bd44-3af7f20a0ea9.png)
 
 
 with the current introduction of the AI app "replika" i was fascinated to see the way in which this programmed bot talked to people. just like i'm talking 2 u. 0_0
