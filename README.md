@@ -28,9 +28,14 @@ replika uses a form of AI known as deep neural networks or deep learning in orde
 regardless, the concept of perhaps putting this AI into a product similar to alexa could yield some pretty interesting, perhaps semi fucked up, results. we could be subject to the life of joaquin phoenix and his performance in "her" (2013) or perhaps gain a valuable learning tool in regards to human interaction and connection.
 
 references:
+
 https://www.irishtimes.com/business/technology/sorry-domhnall-gleeson-i-don-t-want-to-chat-to-you-anymore-1.3265913
+
 https://tcjournal.org/vol7/murphy
+
 https://culturemachine.net/deconstruction-is-in-cultural-studies/realtime-synthesis-and-the-differance-of-the-body/
+
 https://replika.ai/
+
 https://www.lifestyleasia.com/ind/gear/tech/similar-to-the-movie-her-replika-is-a-bot-chat-app-that-lets-you-recreate-an-ai-partner/
 
