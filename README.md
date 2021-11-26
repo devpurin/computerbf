@@ -23,6 +23,14 @@ i want to propose the idea of a conscious AI that learns as it converses from yo
 
 with the current introduction of the AI app "replika" i was fascinated to see the way in which this programmed bot talked to people. just like i'm talking 2 u. 0_0
 
-replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns. for all that u know, i could be a bot too. beep boop. or whatever the hell a bot would say. are you in love with me yet, is this working?
+replika uses a form of AI known as deep neural networks or deep learning in order to train itself to talk to its users. siri, alexa and microsoft cortana also use this deep learning technique to process human speech patterns. for all that u know, i could be a bot too. beep boop. or whatever the hell a bot would say. 
 
-ahem, regardless, the concept of perhaps putting this AI into a product similar to alexa could yield some pretty interesting, perhaps semi fucked up, results. let's just hope we avoid the heartbreaking route that unfolded in "her" (2013).
+regardless, the concept of perhaps putting this AI into a product similar to alexa could yield some pretty interesting, perhaps semi fucked up, results. we could be subject to the life of joaquin phoenix and his performance in "her" (2013) or perhaps gain a valuable learning tool in regards to human interaction and connection.
+
+references:
+https://www.irishtimes.com/business/technology/sorry-domhnall-gleeson-i-don-t-want-to-chat-to-you-anymore-1.3265913
+https://tcjournal.org/vol7/murphy
+https://culturemachine.net/deconstruction-is-in-cultural-studies/realtime-synthesis-and-the-differance-of-the-body/
+https://replika.ai/
+https://www.lifestyleasia.com/ind/gear/tech/similar-to-the-movie-her-replika-is-a-bot-chat-app-that-lets-you-recreate-an-ai-partner/
+
